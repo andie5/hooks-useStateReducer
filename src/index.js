@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import LightSwitch from "./LightSwitchWithUseReducer";
+// import LightSwitch from "./LightSwitchWithUseReducer";
 import Keypad from "./KeypadUnlock";
 // import LightSwitch from "./LightSwitchWithUseState";
 // import Counter from "./Counter";
