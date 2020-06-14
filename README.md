@@ -11,6 +11,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Switch between the different imports in index.js to start the project.
 
-This project is based on exercises from the Dave Ceddia React Book. These exercises focus on useState and useRef hooks.
+This project is based on exercises from the Dave Ceddia React Book. These exercises focus on useState, useRef and useReducer hooks.
 
 Andrea A
